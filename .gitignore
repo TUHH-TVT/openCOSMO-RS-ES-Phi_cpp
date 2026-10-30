@@ -1,0 +1,13 @@
+.vscode/*
+.vs/*
+build/*
+build-*/*
+bindings/temporary/*
+bindings/Debug/*
+bindings/Release/*
+bindings/openCOSMORS.cpython*
+bindings/.vscode/*
+__pycache__/
+*.pyc
+*.pyd
+*.so
